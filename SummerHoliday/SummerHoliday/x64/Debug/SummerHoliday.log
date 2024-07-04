@@ -1,0 +1,5 @@
+﻿  源.cpp
+D:\c加加\SummerHoliday\SummerHoliday\源.cpp(97,19): warning C4244: “+=”: 从“double”转换到“LONG”，可能丢失数据
+D:\c加加\SummerHoliday\SummerHoliday\源.cpp(179,18): warning C4244: “+=”: 从“double”转换到“LONG”，可能丢失数据
+D:\c加加\SummerHoliday\SummerHoliday\源.cpp(236,13): warning C4101: “msg”: 未引用的局部变量
+  SummerHoliday.vcxproj -> D:\c加加\SummerHoliday\x64\Debug\SummerHoliday.exe
